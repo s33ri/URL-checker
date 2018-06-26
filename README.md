@@ -7,19 +7,10 @@ Small python script which takes a list of URL's from txt file and based on HTTP 
 
 ## Usage:-
 This python script takes a txt file as an input from the user via command line argument and performs the check on all the URL's present in the file.
+
 ### Usage command - 
 ```
 chmod +x script.py                  --- Grant execution privilege to script.py
 ./script.py url.txt                 --- makes sure script.py and url.txt are in the same directory
 ./script.py <path to the txt file>  --- url.txt is present in a different drectory than the script
  ```
-  
-### Sample txt file content:-
-(Each URL in a new line and without http/https://)
-
-www.google.com
-www.facebook.com
-www.yahoo.com
-123456
-github.com
-www.upwork.com/att/
