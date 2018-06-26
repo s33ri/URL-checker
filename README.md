@@ -23,3 +23,10 @@ chmod +x script.py                  --- Grant execution privilege to script.py
 ./script.py url.txt                 --- makes sure script.py and url.txt are in the same directory
 ./script.py <path to the txt file>  --- url.txt is present in a different drectory than the script
  ```
+## Screenshots:-
+
+### Script Execution
+  ![run](https://user-images.githubusercontent.com/40600860/41921749-2e143f26-7981-11e8-94bb-642557bcfabb.png)
+
+### Sample txt file
+  ![txt](https://user-images.githubusercontent.com/40600860/41922016-cfac26d2-7981-11e8-9b0d-9465c1e0da8a.png)
