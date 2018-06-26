@@ -19,9 +19,8 @@ This python script takes a txt file as an input from the user via command line a
 
 ### Usage command - 
 ```
-chmod +x script.py                  --- Grant execution privilege to script.py
-./script.py url.txt                 --- makes sure script.py and url.txt are in the same directory
-./script.py <path to the txt file>  --- url.txt is present in a different drectory than the script
+python script.py url.txt                 --- make sure script.py and url.txt are in the same directory
+python script.py <path to the txt file>  --- url.txt is present in a different drectory than the script
  ```
 ## Screenshots:-
 
